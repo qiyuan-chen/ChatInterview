@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2023-10-20T03:51:38.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="pSyJLtXNYZ8mckFxxDeY" version="22.0.2" type="device">
+  <diagram name="第 1 页" id="8hVJV8_SO99AcmRjzlbT">
+    <mxGraphModel dx="819" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-1" value="ChatInterview业务架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-2" value="产品模块层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-3" value="业务功能层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-4" value="基础数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-5" value="模型接口层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="227" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-26" value="行测题库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-27" value="专业题库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-28" value="心理量表" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-29" value="用人标准" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="461" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-30" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-22" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="282" y="227" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-23" value="语音识别" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="227" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-24" value="多轮对话" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="413" y="227" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-25" value="文本生成" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="227" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-9" value="简历导入" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-10" value="题库问答" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-11" value="算法测评" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-12" value="逐层深入" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-13" value="整体情况" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-14" value="错误纠正" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-15" value="提升建议" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-16" value="相似问题" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-17" value="题库导入" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-18" value="维度定义" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-19" value="标准导入" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-20" value="全面建议" style="rounded=0;whiteSpace=wrap;html=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="141" width="25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-6" value="模拟面试训练（2B）" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-7" value="面试回顾复盘" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtqP1CSTkjKP90LCL6E4-8" value="面试招聘与评估" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillStyle=auto;imageAspect=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="145" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
